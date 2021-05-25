@@ -1,0 +1,151 @@
+,country,sum(people_vaccinated)
+0,United States,2628191435.0
+1,United Kingdom,991702320.0
+2,England,843454614.0
+3,India,697751778.0
+4,Israel,283356446.0
+5,Brazil,268680239.0
+6,Turkey,241871904.0
+7,Germany,226740628.0
+8,Italy,167918855.0
+9,France,148176782.0
+10,Chile,145626771.0
+11,Russia,95882542.0
+12,Spain,94088135.0
+13,Morocco,91210429.0
+14,Poland,90727170.0
+15,Indonesia,87268020.0
+16,Canada,86584279.0
+17,Mexico,81695245.0
+18,Scotland,76462575.0
+19,Bangladesh,63883893.0
+20,Romania,52876399.0
+21,Wales,45729347.0
+22,Argentina,43701643.0
+23,Hungary,36264962.0
+24,Serbia,35731991.0
+25,Portugal,28703207.0
+26,Belgium,28294107.0
+27,Greece,26970204.0
+28,Czechia,26643047.0
+29,Northern Ireland,25803034.0
+30,Austria,24702897.0
+31,Denmark,22481299.0
+32,Switzerland,18378646.0
+33,Bahrain,16742367.0
+34,Finland,16462702.0
+35,Slovakia,16077127.0
+36,Norway,15882125.0
+37,Ireland,11514713.0
+38,Peru,10005941.0
+39,Colombia,9537483.0
+40,South Korea,8969993.0
+41,Lithuania,8761145.0
+42,Bulgaria,7740696.0
+43,Sweden,7351202.0
+44,Slovenia,6485300.0
+45,Netherlands,6087765.0
+46,United Arab Emirates,4316983.0
+47,Malaysia,4162477.0
+48,Dominican Republic,4012719.0
+49,Rwanda,3695664.0
+50,Azerbaijan,3320445.0
+51,Estonia,3230995.0
+52,Japan,3110035.0
+53,Hong Kong,3093300.0
+54,Uruguay,3063048.0
+55,Singapore,3001189.0
+56,Malta,2729660.0
+57,South Africa,2614168.0
+58,Latvia,2389219.0
+59,Croatia,2261538.0
+60,Bolivia,1770163.0
+61,Senegal,1648680.0
+62,Seychelles,1422529.0
+63,Oman,1405070.0
+64,Cambodia,1324650.0
+65,Australia,1238684.0
+66,Barbados,1182875.0
+67,Gibraltar,1166785.0
+68,Luxembourg,985292.0
+69,Costa Rica,937388.0
+70,Ghana,922252.0
+71,Ecuador,774409.0
+72,Zimbabwe,765017.0
+73,Lebanon,762664.0
+74,Ukraine,721765.0
+75,Philippines,646853.0
+76,Isle of Man,608604.0
+77,Iceland,568278.0
+78,Jordan,465228.0
+79,Kuwait,459000.0
+80,Cyprus,406942.0
+81,Guatemala,390340.0
+82,Myanmar,383800.0
+83,Macao,327503.0
+84,Jersey,231041.0
+85,Cayman Islands,206480.0
+86,Kazakhstan,194000.0
+87,Pakistan,152878.0
+88,Vietnam,149464.0
+89,Cote d'Ivoire,128035.0
+90,El Salvador,124512.0
+91,Paraguay,114530.0
+92,Bermuda,102857.0
+93,Moldova,101476.0
+94,Qatar,100000.0
+95,Thailand,95044.0
+96,Belize,79891.0
+97,Honduras,75671.0
+98,Faeroe Islands,70387.0
+99,San Marino,69302.0
+100,Afghanistan,62200.0
+101,New Zealand,57061.0
+102,Angola,55169.0
+103,Guernsey,53646.0
+104,Montenegro,50934.0
+105,Mozambique,46439.0
+106,Belarus,40944.0
+107,Laos,40732.0
+108,Saint Lucia,39730.0
+109,Kenya,33144.0
+110,Uganda,31917.0
+111,Malawi,29834.0
+112,Jamaica,28195.0
+113,Suriname,21075.0
+114,Dominica,20767.0
+115,Anguilla,18380.0
+116,Monaco,18199.0
+117,Guyana,18044.0
+118,Andorra,15145.0
+119,Albania,14501.0
+120,Saint Kitts and Nevis,14483.0
+121,Iran,13000.0
+122,Venezuela,12351.0
+123,Tunisia,12235.0
+124,Grenada,11752.0
+125,Nigeria,8000.0
+126,Greenland,6511.0
+127,Turks and Caicos Islands,6433.0
+128,Equatorial Guinea,5765.0
+129,North Macedonia,5300.0
+130,Mauritius,4050.0
+131,Falkland Islands,3247.0
+132,Saint Helena,3214.0
+133,Montserrat,1544.0
+134,Trinidad and Tobago,1431.0
+135,Bahamas,110.0
+136,Maldives,0.0
+137,Sri Lanka,0.0
+138,Algeria,0.0
+139,China,0.0
+140,Northern Cyprus,0.0
+141,Liechtenstein,0.0
+142,Panama,0.0
+143,Saint Vincent and the Grenadines,0.0
+144,Mongolia,0.0
+145,Saudi Arabia,0.0
+146,Guinea,0.0
+147,Antigua and Barbuda,0.0
+148,Nepal,0.0
+149,Egypt,0.0

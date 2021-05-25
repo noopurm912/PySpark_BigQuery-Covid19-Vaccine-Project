@@ -1,0 +1,151 @@
+,country,sum(people_vaccinated_per_hundred)
+0,Gibraltar,3463.2099999999996
+1,Israel,3273.6699999999987
+2,England,1498.4900000000005
+3,United Kingdom,1460.8
+4,Wales,1450.3899999999999
+5,Seychelles,1446.51
+6,Scotland,1399.56
+7,Northern Ireland,1362.6399999999996
+8,Bahrain,983.9600000000004
+9,United States,785.8900000000002
+10,Chile,761.93
+11,Isle of Man,715.75
+12,Malta,618.1899999999999
+13,Serbia,525.1399999999999
+14,Barbados,411.60999999999996
+15,Denmark,388.17
+16,Hungary,375.38000000000005
+17,Lithuania,321.82
+18,Cayman Islands,314.21000000000004
+19,Slovenia,311.93999999999994
+20,Finland,297.12
+21,Slovakia,294.4499999999999
+22,Norway,292.9599999999999
+23,Turkey,286.77
+24,Portugal,281.48
+25,Italy,277.72999999999996
+26,Romania,274.83000000000004
+27,Austria,274.27
+28,Germany,270.65
+29,Greece,258.7599999999999
+30,Czechia,248.79999999999998
+31,Morocco,247.12
+32,Belgium,244.10000000000008
+33,Estonia,243.57
+34,Poland,239.74999999999994
+35,Ireland,233.21
+36,Canada,229.39
+37,Jersey,228.60000000000005
+38,France,217.44000000000003
+39,Switzerland,212.32
+40,San Marino,204.21
+41,Spain,201.20999999999995
+42,Iceland,166.54
+43,Bermuda,165.16
+44,Luxembourg,157.42999999999998
+45,Faeroe Islands,144.05
+46,Latvia,126.71000000000002
+47,Brazil,126.42000000000002
+48,Anguilla,122.52000000000001
+49,Bulgaria,111.39
+50,Argentina,96.7
+51,Falkland Islands,93.22999999999999
+52,Uruguay,88.19
+53,Guernsey,79.99000000000001
+54,Sweden,72.78
+55,Russia,65.71999999999998
+56,Mexico,63.389999999999986
+57,Croatia,55.08
+58,Saint Helena,52.94
+59,Singapore,51.300000000000004
+60,India,50.540000000000006
+61,Macao,50.43000000000001
+62,Cyprus,46.46000000000001
+63,Monaco,46.370000000000005
+64,United Arab Emirates,43.65
+65,Hong Kong,41.25
+66,Bangladesh,38.790000000000006
+67,Dominican Republic,36.980000000000004
+68,Netherlands,35.53
+69,Azerbaijan,32.75
+70,Indonesia,31.909999999999997
+71,Montserrat,30.88
+72,Peru,30.339999999999996
+73,Dominica,28.84
+74,Rwanda,28.519999999999996
+75,Oman,27.550000000000008
+76,Saint Kitts and Nevis,27.23
+77,Saint Lucia,21.64
+78,Belize,20.09
+79,Andorra,19.599999999999998
+80,Colombia,18.76
+81,Costa Rica,18.41
+82,South Korea,17.509999999999998
+83,Turks and Caicos Islands,16.62
+84,Bolivia,15.189999999999998
+85,Malaysia,12.84
+86,Greenland,11.469999999999999
+87,Lebanon,11.18
+88,Kuwait,10.75
+89,Grenada,10.45
+90,Senegal,9.830000000000002
+91,Montenegro,8.120000000000001
+92,Cambodia,7.949999999999999
+93,Zimbabwe,5.140000000000001
+94,Australia,4.86
+95,Jordan,4.5600000000000005
+96,Ecuador,4.41
+97,South Africa,4.409999999999999
+98,Suriname,3.59
+99,Qatar,3.47
+100,Ghana,2.97
+101,Moldova,2.52
+102,Japan,2.47
+103,Guyana,2.29
+104,Guatemala,2.18
+105,El Salvador,1.9300000000000002
+106,Ukraine,1.66
+107,Paraguay,1.5999999999999999
+108,New Zealand,1.1800000000000002
+109,Kazakhstan,1.03
+110,Jamaica,0.95
+111,Honduras,0.77
+112,Myanmar,0.71
+113,Philippines,0.59
+114,Laos,0.56
+115,Albania,0.5
+116,Cote d'Ivoire,0.5
+117,Belarus,0.43
+118,Equatorial Guinea,0.41
+119,Mauritius,0.32
+120,North Macedonia,0.25
+121,Angola,0.16999999999999998
+122,Malawi,0.16
+123,Afghanistan,0.16
+124,Vietnam,0.15000000000000002
+125,Mozambique,0.15
+126,Thailand,0.14
+127,Tunisia,0.11
+128,Trinidad and Tobago,0.1
+129,Uganda,0.07
+130,Kenya,0.07
+131,Pakistan,0.06
+132,Venezuela,0.04
+133,Bahamas,0.03
+134,Iran,0.01
+135,Maldives,0.0
+136,Sri Lanka,0.0
+137,Algeria,0.0
+138,China,0.0
+139,Northern Cyprus,0.0
+140,Nigeria,0.0
+141,Liechtenstein,0.0
+142,Panama,0.0
+143,Saint Vincent and the Grenadines,0.0
+144,Mongolia,0.0
+145,Saudi Arabia,0.0
+146,Guinea,0.0
+147,Antigua and Barbuda,0.0
+148,Nepal,0.0
+149,Egypt,0.0
