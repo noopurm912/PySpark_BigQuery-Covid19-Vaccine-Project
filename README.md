@@ -5,10 +5,10 @@ The project aims to analyze the distribution of COVID-19 vaccination globally an
 •	We will analyze that how many people got fully vaccinated versus the total number of people who got vaccinated because some vaccines require two doses. <br>
 •	We will study the vaccine distribution on a monthly as well as yearly basis and analysis of vaccines used by the different countries.
 
-Data Source<br>
+<h4>Data Source<h4>
 The dataset is acquired from Kaggle. It included COVID-19 world vaccination progress. The data is regularly maintained and updated. we have worked on the dataset which is updated till 6th April. Link: https://www.kaggle.com/gpreda/covid-world-vaccination-progress.<br>
 
- Architecture & Implementation<br>
+ <h4>Architecture & Implementation</h4>
   
 We used Google Cloud Platform for the implementation of the project.<br>
 •	First, ingested the dataset to google cloud storage. <br>
