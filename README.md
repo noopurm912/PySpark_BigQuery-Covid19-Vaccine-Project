@@ -9,9 +9,10 @@ The project aims to analyze the distribution of COVID-19 vaccination globally an
 The dataset is acquired from Kaggle. It included COVID-19 world vaccination progress. The data is regularly maintained and updated. we have worked on the dataset which is updated till 6th April. Link: https://www.kaggle.com/gpreda/covid-world-vaccination-progress.
 
  <h3>Architecture & Implementation<h3>
+  
 We used Google Cloud Platform for the implementation of the project.<br>
 •	First, ingested the dataset to google cloud storage. <br>
 •	Used cloud Dataproc to implement the spark project, ceated a cluster in Dataproc with three worker nodes and one master node. <br>
-•	Created a pyspark jupyter notebook in the cluster and read the dataset from cloud storage. Dataproc enables the use of cloud storage in parallel with HDFS. <br
+•	Created a pyspark jupyter notebook in the cluster and read the dataset from cloud storage and dataproc enables the use of cloud storage in parallel with HDFS. <br>
 •	PySpark SQL is used to query the data and saving the results to cloud storage. <br>
 •	The results are later saved in the google BigQuery tables to enable the connection with Tableau online for data visualization.<br>
